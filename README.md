@@ -5,14 +5,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40">
-  <img align="center" alt="Rafa-Ts" height="30" width="40">
-  <img align="center" alt="Rafa-React" height="30" width="40">
-  <img align="center" alt="Rafa-HTML" height="30" width="40">
-  <img align="center" alt="Rafa-CSS" height="30" width="40">
-  <img align="center" alt="Rafa-Python" height="30" width="40">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" >
+  <img align="center" height="30" width="40">
+  <img align="center" height="30" width="40">
+  <img align="center" height="30" width="40">
+  <img align="center" height="30" width="40">
+  <img align="center" height="30" width="40">
+  <img align="center" height="30" width="40">
+  <img align="center" height="30" width="40">
+  <img align="right" height="150" style="border-radius:50px;" >
 </div>
   
   ##
