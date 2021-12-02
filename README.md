@@ -1,4 +1,4 @@
-## Oi, ou o Guilherme Viana
+
 <div align="center">
   <a href="https://github.com/v1an4z">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=v1an4z&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
