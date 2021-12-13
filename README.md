@@ -1,9 +1,8 @@
 
 <div align="center">
   <a href="https://github.com/v1an4z">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=v1an4z&show_icons=true&icon_color=fff&bg_color=30,000000,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1an4z&layout=compact&langs_count=7&bg_color=20,000000,904e95&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=v1an4z&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1an4z&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
